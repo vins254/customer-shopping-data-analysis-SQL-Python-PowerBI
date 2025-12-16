@@ -19,22 +19,38 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 1.	Clone the repository
    
     git clone https://github.com/vins254/customer-shopping-data-analysis-SQL-Python-PowerBI.git
-3.	Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+  	
+2.	Open Customer_Shopping_Behavior_Analysis.ipynb notebook
    
     This file contains:
         o	Data Import
+  	
         o	Data exploration
+  	
         o	Data cleaning
+  	
         o	Connection to SQL Database
-5.	Load the data from the Python notebook into PostgreSQL
+  	
+3.	Load the data from the Python notebook into PostgreSQL
+   
       o	Create a database in SQL
+  	
       o	Run Python code to load data into SQL database
+  	
       o	Open customer_behavior_sql_queries.sql
+  	
       o	Answer Business Questions using SQL Queries
-6.	Connect the SQL Database to Power BI
+  	
+4.	Connect the SQL Database to Power BI
+   
       o	Open customer_behavior_dashboard.pbix
+  	
       o	Create an interactive dashboard in Power BI
-7.	Create Project Report and Presentation
+  	
+5.	Create Project Report and Presentation
+    
       o	Create project report
+  	
       o	Build presentation deck using Gamma AI
+  	
 
