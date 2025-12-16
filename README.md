@@ -23,15 +23,16 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 2.	Open Customer_Shopping_Behavior_Analysis.ipynb notebook
    
     This file contains:
-        o	Data Import
+
+  	   o	Data Import
   	
-        o	Data exploration
+      o	Data exploration
   	
-        o	Data cleaning
+      o	Data cleaning
   	
-        o	Connection to SQL Database
+      o	Connection to SQL Database
   	
-3.	Load the data from the Python notebook into PostgreSQL
+4.	Load the data from the Python notebook into PostgreSQL
    
       o	Create a database in SQL
   	
@@ -41,13 +42,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   	
       o	Answer Business Questions using SQL Queries
   	
-4.	Connect the SQL Database to Power BI
+5.	Connect the SQL Database to Power BI
    
       o	Open customer_behavior_dashboard.pbix
   	
       o	Create an interactive dashboard in Power BI
   	
-5.	Create Project Report and Presentation
+6.	Create Project Report and Presentation
     
       o	Create project report
   	
